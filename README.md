@@ -1,7 +1,7 @@
 ![headshot](nabu.jpg)
 
 # A little insight into Nabu
-Nabu was a Mesopotamian god of writing and knowledge. I am not a god. This README will give you a bit of information about me. 
+Nabu was a Mesopotamian god of writing and knowledge the Roman version was Mercury. I am not a god. This README will give you a bit of information about me. 
 
 ## My Career
 After 20 years in Hospitality it was time for a change. I've always been fascinated with computers and the time was right to create my own path instead of following others. After starting a diploma in Software Development, 18 months into a 2 year course I feel like I am ready to start showing what I know. 
